@@ -5,7 +5,7 @@ description: This is a repository of authoritylabs APIs, self-contained as a Git
   operations.
 image: http://template.streamdata.gallery/assets/authoritylabs.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://authoritylabs.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
