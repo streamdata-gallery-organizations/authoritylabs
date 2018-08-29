@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AuthorityLabs",
+	"description": "This is a repository of authoritylabs APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/authoritylabs.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://authoritylabs.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AuthorityLabs",
+			"x-api-slug": "authoritylabs",
+			"description": "Track website rankings in Google, Yahoo!, and Bing daily. Our automated SERP tracking saves you time and helps you respond quickly to ranking changes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/694-authoritylabs.jpg",
+			"humanURL": "http://authoritylabs.com",
+			"baseURL": "https://api.authoritylabs.com//",
+			"tags": "AuthorityLabs",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/authoritylabs/master/_listings/authoritylabs/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AuthorityLabs",
+	"include": [
+		{
+			"name": "AuthorityLabs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/authoritylabs/master/_listings/authoritylabs/apis.yaml"
+		}
+	]
+}
